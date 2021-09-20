@@ -1,4 +1,0 @@
-#A00455293
-Public int power(int a, int b) {
-return Math.pow(a,b);
-}
