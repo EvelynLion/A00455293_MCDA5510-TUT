@@ -1,3 +1,8 @@
+#A00452560-1
+Public int power(int a, int b) {
+return Math.pow(a,b);
+}
+
 #A00452560
 Public int averag(int a, int b) {
 return Math.avg(a,b);
