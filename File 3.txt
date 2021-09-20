@@ -1,4 +1,14 @@
-#A00452560
+#A00452560-1
 Public int power(int a, int b) {
 return Math.pow(a,b);
+}
+
+#A00452560
+Public int averag(int a, int b) {
+return Math.avg(a,b);
+}
+
+#A00455293
+Public int maxi(int a, int b) {
+return Math.max(a,b);
 }
